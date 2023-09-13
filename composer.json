@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "myfreee\\": "vendor/myfreee/core/classes"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "guzzlehttp/guzzle": "^7.7"
+    }
+}
